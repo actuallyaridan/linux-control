@@ -30,8 +30,8 @@
 #include <QProcess>
 #include <QStandardPaths>
 #include <QMessageBox>
-#include "AeroQt/navbuttons.h"
-#include "AeroQt/insetwindow.h"
+#include <AeroQt/navbuttons.h>
+#include <AeroQt/insetwindow.h>
 #include "Categories.h"
 #include "pages/LinuxUpdatePage.h"
 #include "pages/SystemPage.h"
